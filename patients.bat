@@ -1,1 +1,0 @@
-json-server --watch patients.json --port 3001
